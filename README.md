@@ -36,7 +36,7 @@ Včasih pride prav značka kbd za tipke. Značko uporabimo takole:
      VSCode pa bo prikazal samo oglate oklepaje. Ko nalogo opravite, si to lahko zabeležite tako,
      da spremenite [ ] v [x]. -->
 - [x] Izberite si še tri bližnjice, ki jih še ne uporabljate redno, in se jih naučite. 
-      Dodajte jih v prvi razdelek tega dokumenta.
+      Dodajte jih v prvi razdelek tega dokumenta..
 
 <!-- 2. nivojski razdelek -->
 ## Uporabne povezave
