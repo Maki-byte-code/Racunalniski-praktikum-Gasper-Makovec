@@ -1,0 +1,23 @@
+# Pomožne datoteke LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb 
+
+# Izhodni PDF (po želji)
+*.pdf
+
+# minted (če ga uporabljaš)
+_minted-*/
